@@ -6,17 +6,17 @@ import "./Movie.css";
 function Movie({ title, poster, genres, synopsis }) {
   return (
     <div className="Movie">
-      <div className="Movie__Columns">
+      <div className="Movie__Column">
         <MoviePoster poster={poster} alt={title} />
       </div>
-      <div className="Movie__Columns">
+      <div className="Movie__Column">
         <h1>{title}</h1>
         <div className="Movie__Genres">
           {genres.map((genre, index) => (
             <MovieGenre genre={genre} key={index} />
           ))}
         </div>
-        <p className="Movie__Synopsis">
+        <div className="Movie__Synopsis">
           <LinesEllipsis
             text={synopsis}
             maxLine="3"
@@ -24,7 +24,7 @@ function Movie({ title, poster, genres, synopsis }) {
             trimRight
             basedOn="letters"
           />
-        </p>
+        </div>
       </div>
     </div>
   );
@@ -35,7 +35,7 @@ function MoviePoster({ poster, alt }) {
 }
 
 function MovieGenre({ genre }) {
-  return <span className="Movie__Genre">{genre} </span>;
+  return <span className="Movie__Genre">{genre}</span>;
 }
 
 Movie.propTypes = {
