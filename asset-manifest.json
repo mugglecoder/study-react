@@ -1,13 +1,13 @@
 {
-  "main.css": "/stydy-react/static/css/main.b5772555.chunk.css",
-  "main.js": "/stydy-react/static/js/main.e2804b0b.chunk.js",
-  "main.js.map": "/stydy-react/static/js/main.e2804b0b.chunk.js.map",
-  "runtime~main.js": "/stydy-react/static/js/runtime~main.086937dd.js",
-  "runtime~main.js.map": "/stydy-react/static/js/runtime~main.086937dd.js.map",
-  "static/js/2.9dee5afb.chunk.js": "/stydy-react/static/js/2.9dee5afb.chunk.js",
-  "static/js/2.9dee5afb.chunk.js.map": "/stydy-react/static/js/2.9dee5afb.chunk.js.map",
-  "index.html": "/stydy-react/index.html",
-  "precache-manifest.434b5091b4e6b8a0b96e395f3e277e0e.js": "/stydy-react/precache-manifest.434b5091b4e6b8a0b96e395f3e277e0e.js",
-  "service-worker.js": "/stydy-react/service-worker.js",
-  "static/css/main.b5772555.chunk.css.map": "/stydy-react/static/css/main.b5772555.chunk.css.map"
+  "main.css": "/study-react/static/css/main.b5772555.chunk.css",
+  "main.js": "/study-react/static/js/main.1125501c.chunk.js",
+  "main.js.map": "/study-react/static/js/main.1125501c.chunk.js.map",
+  "runtime~main.js": "/study-react/static/js/runtime~main.cbe42cef.js",
+  "runtime~main.js.map": "/study-react/static/js/runtime~main.cbe42cef.js.map",
+  "static/js/2.9dee5afb.chunk.js": "/study-react/static/js/2.9dee5afb.chunk.js",
+  "static/js/2.9dee5afb.chunk.js.map": "/study-react/static/js/2.9dee5afb.chunk.js.map",
+  "index.html": "/study-react/index.html",
+  "precache-manifest.97448da2a2f292b90c3064f50fe81da9.js": "/study-react/precache-manifest.97448da2a2f292b90c3064f50fe81da9.js",
+  "service-worker.js": "/study-react/service-worker.js",
+  "static/css/main.b5772555.chunk.css.map": "/study-react/static/css/main.b5772555.chunk.css.map"
 }
